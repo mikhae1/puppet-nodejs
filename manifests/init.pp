@@ -3,5 +3,5 @@ class nodejs (
   $package_ensure = $nodejs::params::package_ensure,
 ) inherits nodejs::params {
   include nodejs::install
-  include nodejs::config
+  # include nodejs::config
 }
