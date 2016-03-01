@@ -2,7 +2,7 @@
   "name": "mmekhanov-nodejs",
   "version": "0.1.0",
   "author": "mmekhanov",
-  "summary": null,
+  "summary": "Eurochem NodeJS installer",
   "license": "Apache 2.0",
   "source": "https://github.com/minkolazer/puppet-nodejs",
   "project_page": "https://github.com/minkolazer/puppet-nodejs",

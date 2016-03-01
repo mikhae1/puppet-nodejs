@@ -1,4 +1,4 @@
 class nodejs::params {
-  $nodejs_version  = '4.2.x'
+  $nodejs_version  = '5.x'
   $package_ensure  = 'present'
 }
